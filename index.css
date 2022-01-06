@@ -57,5 +57,9 @@ width: 100px;
     #place-time{
        background: linear-gradient(90deg, #1c3643, #273b47 25%, #3a85cb);
     }
+    #conviertete-en-orador texto{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        
+    }
   
     
